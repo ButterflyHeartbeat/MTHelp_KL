@@ -1,3 +1,7 @@
+using HandyControl.Tools.Extension;
+using MTHelp.Models;
+using MTHelp.ViewModels;
+using MTHelp.Views;
 using System.CodeDom;
 
 namespace MTHelp
@@ -59,7 +63,8 @@ namespace MTHelp
 
         public void FirBtn()
         {
-
+            ICModel getAudioView = new GetAudioViewModel();
+            //getAudioView.Show();
         }
 
     }

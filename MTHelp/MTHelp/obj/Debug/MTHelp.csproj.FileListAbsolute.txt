@@ -31,3 +31,5 @@ D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\bin\Debug\fr\HandyControl.resour
 D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\bin\Debug\ko-KR\HandyControl.resources.dll
 D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\bin\Debug\ru\HandyControl.resources.dll
 D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\bin\Debug\tr\HandyControl.resources.dll
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\GetAudioView.g.cs
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\GetAudioView.baml

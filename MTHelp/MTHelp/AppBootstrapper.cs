@@ -2,6 +2,8 @@ namespace MTHelp {
     using System;
     using System.Collections.Generic;
     using Caliburn.Micro;
+    using MTHelp.Models;
+    using MTHelp.ViewModels;
 
     public class AppBootstrapper : BootstrapperBase {
         SimpleContainer container;
@@ -16,6 +18,7 @@ namespace MTHelp {
             container.Singleton<IWindowManager, WindowManager>();
             container.Singleton<IEventAggregator, EventAggregator>();
             container.PerRequest<IShell, ShellViewModel>();
+            container.PerRequest<ICModel, GetAudioViewModel>();
         }
 
         protected override object GetInstance(Type service, string key) {
