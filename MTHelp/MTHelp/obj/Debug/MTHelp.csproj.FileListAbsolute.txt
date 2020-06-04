@@ -33,3 +33,13 @@ D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\bin\Debug\ru\HandyControl.resour
 D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\bin\Debug\tr\HandyControl.resources.dll
 D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\GetAudioView.g.cs
 D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\GetAudioView.baml
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\FCMainView.g.cs
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\LRMainView.g.cs
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\FCMainView.baml
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\LRMainView.baml
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\InfoView.g.cs
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\InfoView.baml
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\ListeningToWriteView.g.cs
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\ListeningToWriteView.baml
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\CrawlingResourcesView.g.cs
+D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\obj\Debug\Views\CrawlingResourcesView.baml

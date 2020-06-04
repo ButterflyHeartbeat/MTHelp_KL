@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MTHelp.Models
 {
-    interface ICModel
+   public interface ICModel
     {
     }
 }

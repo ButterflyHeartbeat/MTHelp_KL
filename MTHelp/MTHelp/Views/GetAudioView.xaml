@@ -12,7 +12,7 @@
             <RowDefinition Height="8*"/>
             <RowDefinition Height="2*"/>
         </Grid.RowDefinitions>
-        <Label>啦啦啦</Label>
+        <Rectangle></Rectangle>
         <Button x:Name="CommitBtn" Content="{Binding CommitBtnText}" Style="{StaticResource ButtonPrimary}" Grid.Row="1" Height="40" Margin="319,31,306,19" Width="175"></Button>
     </Grid>
 </UserControl>

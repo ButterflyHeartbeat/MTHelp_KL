@@ -80,15 +80,55 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ViewModels\CrawlingResourcesViewModel.cs" />
+    <Compile Include="ViewModels\FCMainViewModel.cs" />
     <Compile Include="ViewModels\GetAudioViewModel.cs" />
+    <Compile Include="ViewModels\InfoViewModel.cs" />
+    <Compile Include="ViewModels\ListeningToWriteViewModel.cs" />
+    <Compile Include="ViewModels\LRMainViewModel.cs" />
+    <Compile Include="Views\CrawlingResourcesView.xaml.cs">
+      <DependentUpon>CrawlingResourcesView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\FCMainView.xaml.cs">
+      <DependentUpon>FCMainView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\GetAudioView.xaml.cs">
       <DependentUpon>GetAudioView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\InfoView.xaml.cs">
+      <DependentUpon>InfoView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ListeningToWriteView.xaml.cs">
+      <DependentUpon>ListeningToWriteView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\LRMainView.xaml.cs">
+      <DependentUpon>LRMainView.xaml</DependentUpon>
     </Compile>
     <Page Include="ShellView.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="Views\CrawlingResourcesView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\FCMainView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Views\GetAudioView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\InfoView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ListeningToWriteView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\LRMainView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

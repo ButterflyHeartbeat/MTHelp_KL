@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MTHelp.ViewModels
 {
-   public class GetAudioViewModel:PropertyChangedBase, ICModel
+   public class GetAudioViewModel:Screen,ICModel
 	{
         public GetAudioViewModel()
         {

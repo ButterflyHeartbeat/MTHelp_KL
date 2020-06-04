@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\KL\main\Files\my_try\MTHelp_KL\MTHelp\MTHelp\App.xaml
-21221560976
+7249096286
 
-111466014163
+21895015829
 1241692795396
-ShellView.xaml;Views\GetAudioView.xaml;
+ShellView.xaml;Views\CrawlingResourcesView.xaml;Views\FCMainView.xaml;Views\GetAudioView.xaml;Views\InfoView.xaml;Views\ListeningToWriteView.xaml;Views\LRMainView.xaml;
 
 True
 

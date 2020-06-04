@@ -18,7 +18,6 @@ namespace MTHelp {
             container.Singleton<IWindowManager, WindowManager>();
             container.Singleton<IEventAggregator, EventAggregator>();
             container.PerRequest<IShell, ShellViewModel>();
-            container.PerRequest<ICModel, GetAudioViewModel>();
         }
 
         protected override object GetInstance(Type service, string key) {
